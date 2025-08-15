@@ -19,7 +19,7 @@ const AISection = () => {
           {/* AI Image */}
           <div className="order-2 lg:order-1">
             <img
-              src="/Images/ai-panel-hero-en-US-03b2220e938845d1a2efaea6df149fb6.webp"
+              src="/images/ai-panel-hero-en-US-03b2220e938845d1a2efaea6df149fb6.webp"
               alt="Hostaway AI Dashboard"
               className="w-full h-auto rounded-2xl shadow-soft"
             />

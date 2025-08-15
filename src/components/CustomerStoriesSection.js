@@ -9,7 +9,7 @@ const CustomerStoriesSection = () => {
       position: "Co-Owner & COO, Host Services Group",
       location: "Toronto, ON, Canada",
       growth: "642%",
-      image: "/Images/host-service-group-opt.webp",
+      image: "/images/host-service-group-opt.webp",
     },
     {
       title:
@@ -18,7 +18,7 @@ const CustomerStoriesSection = () => {
       position: "Partner & CTO, Park Place Properties",
       location: "Toronto, ON, Canada",
       growth: "180%",
-      image: "/Images/park-place-opt.webp",
+      image: "/images/park-place-opt.webp",
     },
     {
       title: "Lifty Life Grows 6x with Hostaway",
@@ -26,7 +26,7 @@ const CustomerStoriesSection = () => {
       position: "CEO of Lifty Life",
       location: "Canada",
       growth: "6x",
-      image: "/Images/liftylife-opt.webp",
+      image: "/images/liftylife-opt.webp",
     },
   ];
 

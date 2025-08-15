@@ -2,49 +2,49 @@ import React from "react";
 
 const IntegrationsSection = () => {
   const integrations = [
-    { name: "Airbnb", logo: "/Images/airbnb.webp", bgColor: "bg-pink-500" },
-    { name: "Vrbo", logo: "/Images/vrbo.webp", bgColor: "bg-blue-600" },
+    { name: "Airbnb", logo: "/images/airbnb.webp", bgColor: "bg-pink-500" },
+    { name: "Vrbo", logo: "/images/vrbo.webp", bgColor: "bg-blue-600" },
     {
       name: "Booking.com",
-      logo: "/Images/bookingcom.webp",
+      logo: "/images/bookingcom.webp",
       bgColor: "bg-blue-600",
     },
-    { name: "Expedia", logo: "/Images/expedia.webp", bgColor: "bg-yellow-400" },
+    { name: "Expedia", logo: "/images/expedia.webp", bgColor: "bg-yellow-400" },
     {
       name: "Google Travel",
-      logo: "/Images/google-travel.webp",
+      logo: "/images/google-travel.webp",
       bgColor: "bg-blue-400",
     },
-    { name: "Stripe", logo: "/Images/stripe.webp", bgColor: "bg-purple-600" },
+    { name: "Stripe", logo: "/images/stripe.webp", bgColor: "bg-purple-600" },
     {
       name: "Tripadvisor",
-      logo: "/Images/tripadvisor.webp",
+      logo: "/images/tripadvisor.webp",
       bgColor: "bg-green-500",
     },
-    { name: "Operto", logo: "/Images/operto.webp", bgColor: "bg-purple-700" },
+    { name: "Operto", logo: "/images/operto.webp", bgColor: "bg-purple-700" },
     {
       name: "Breezeway",
-      logo: "/Images/breezeway.webp",
+      logo: "/images/breezeway.webp",
       bgColor: "bg-blue-400",
     },
-    { name: "Turno", logo: "/Images/turno.webp", bgColor: "bg-teal-600" },
+    { name: "Turno", logo: "/images/turno.webp", bgColor: "bg-teal-600" },
     {
       name: "PriceLabs",
-      logo: "/Images/pricelabs.webp",
+      logo: "/images/pricelabs.webp",
       bgColor: "bg-red-500",
     },
     {
       name: "Beyond",
-      logo: "/Images/beyondpricing.webp",
+      logo: "/images/beyondpricing.webp",
       bgColor: "bg-teal-700",
     },
     {
       name: "Wheelhouse",
-      logo: "/Images/wheelhouse.webp",
+      logo: "/images/wheelhouse.webp",
       bgColor: "bg-pink-600",
     },
-    { name: "Stayfi", logo: "/Images/stayfi.webp", bgColor: "bg-blue-400" },
-    { name: "Zapier", logo: "/Images/zapier.webp", bgColor: "bg-orange-500" },
+    { name: "Stayfi", logo: "/images/stayfi.webp", bgColor: "bg-blue-400" },
+    { name: "Zapier", logo: "/images/zapier.webp", bgColor: "bg-orange-500" },
   ];
 
   return (

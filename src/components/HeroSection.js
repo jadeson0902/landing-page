@@ -37,7 +37,7 @@ const HeroSection = () => {
           {/* Right Column - Software UI Mockup */}
           <div className="relative">
             <img
-              src="/Images/home-en-US-ec578c0cf5117b3f17dc656e4ebf0bc5.webp"
+              src="/images/home-en-US-ec578c0cf5117b3f17dc656e4ebf0bc5.webp"
               alt="Hostaway Dashboard"
               className="w-full h-auto rounded-2xl shadow-soft"
             />
@@ -45,7 +45,7 @@ const HeroSection = () => {
             {/* Hostaway AI Image Overlay */}
             <div className="absolute -top-4 -right-4">
               <img
-                src="/Images/ai-panel-hero-en-US-03b2220e938845d1a2efaea6df149fb6.webp"
+                src="/images/ai-panel-hero-en-US-03b2220e938845d1a2efaea6df149fb6.webp"
                 alt="Hostaway AI"
                 className="w-32 h-32 rounded-xl shadow-medium"
               />

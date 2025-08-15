@@ -5,27 +5,27 @@ const PartnersSection = () => {
     {
       name: "Airbnb",
       status: "2025 Airbnb Preferred Partner",
-      logo: "/Images/airbnb.webp",
+      logo: "/images/airbnb.webp",
     },
     {
       name: "Vrbo",
       status: "2025 Vrbo Elite Partner",
-      logo: "/Images/vrbo.webp",
+      logo: "/images/vrbo.webp",
     },
     {
       name: "Booking.com",
       status: "2025 Premier Partner",
-      logo: "/Images/bookingcom.webp",
+      logo: "/images/bookingcom.webp",
     },
     {
       name: "Google Vacation Rentals",
       status: "Connect for free",
-      logo: "/Images/google-travel.webp",
+      logo: "/images/google-travel.webp",
     },
     {
       name: "Marriott Homes & Villas",
       status: "Advanced API integration",
-      logo: "/Images/homes-villas-marriot-3ae2f503402009bc893ec369303e907b.svg",
+      logo: "/images/homes-villas-marriot-3ae2f503402009bc893ec369303e907b.svg",
     },
   ];
 
